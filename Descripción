@@ -1,0 +1,1 @@
+Se buscará crear un doble sistema interconectado, donde tendremos un ámbito de envío energéticamente eficiente de datos de sensores en raspberry pi, y por otro la recopilación de tales datos en una base de datos y posterior entrega interactiva de estos a través de una página web ya existente de nuestro cliente.
